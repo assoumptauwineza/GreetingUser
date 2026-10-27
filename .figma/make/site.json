@@ -1,0 +1,10 @@
+{
+  "description": "Streamline communication and collaboration for teams with a user-friendly platform that enhances productivity and fosters engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
